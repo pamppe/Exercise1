@@ -71,8 +71,7 @@ Their average is 1.5
 // Implement your solution in the main function. Fill in your name and student number below.
 
 // Exercise 1
-// Name: Emil Lehtonen
-// Student id: 2201349
+
 
 fun main() {
     var i = 0
