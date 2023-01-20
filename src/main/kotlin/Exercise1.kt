@@ -17,14 +17,6 @@ is sum before the user has any input? Perhaps null - so, use optionals).
 Write your implementation into Kotlin main function ( fun main() { ... } ). Attach some sample executions
 into comments box in your solution (in a way similar to what is shown below).
 
-Hints:
-- In Kotlin, you can use toDoubleOrNull() to convert a String to a Double. If the user enters "",
-toDoubleOrNull returns null.
-- Use the ? and ?: operators to handle the null case.
-- If you have read 3 numbers and their average is 6.0, then the sum of numbers is 6.0 * 3 = 18.0
-- Develop the program in steps! For example, write first a loop that reads user input until the end condition
-becomes true
-- You may find it useful to use Kotlin worksheet feature to try out parts of the program
 
 Some sample runs:
 
@@ -68,7 +60,7 @@ Their average is 1.5
 
 */
 
-// Implement your solution in the main function. Fill in your name and student number below.
+// Implement your solution in the main function. 
 
 // Exercise 1
 
